@@ -1,0 +1,2 @@
+API_TOKEN = ''
+path = "./db/todolist.db"
